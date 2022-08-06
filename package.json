@@ -19,6 +19,7 @@
   "dependencies": {
     "@angular-devkit/core": "github:evergreen-test-environment/angular-devkit-core-builds",
     "@angular-devkit/schematics": "github:evergreen-test-environment/angular-devkit-schematics-builds",
-    "@angular/common": "github:evergreen-test-environment/common-builds"
+    "@angular/common": "github:evergreen-test-environment/common-builds",
+    "ruby": "^0.6.1"
   }
 }

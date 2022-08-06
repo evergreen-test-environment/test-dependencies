@@ -1,0 +1,1 @@
+gem 'vagrant', git: 'https://github.com/evergreen-test-environment/vagrant'

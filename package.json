@@ -1,0 +1,24 @@
+{
+  "name": "test-dependencies",
+  "version": "1.0.0",
+  "description": "testing dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evergreen-test-environment/test-dependencies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evergreen-test-environment/test-dependencies/issues"
+  },
+  "homepage": "https://github.com/evergreen-test-environment/test-dependencies#readme",
+  "dependencies": {
+    "@angular-devkit/core": "github:evergreen-test-environment/angular-devkit-core-builds",
+    "@angular-devkit/schematics": "github:evergreen-test-environment/angular-devkit-schematics-builds",
+    "@angular/common": "github:evergreen-test-environment/common-builds"
+  }
+}
